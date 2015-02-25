@@ -1,0 +1,1 @@
+Ertp is a object-oriented rtp stack written in c++. Hope you enjoy it! ;P
